@@ -1,0 +1,1 @@
+This repository contains a Python function that calculates the average of a list of numbers and demonstrates how to handle the case of an empty list to prevent a ZeroDivisionError.  The bug and solution are presented in separate files for clarity.
